@@ -1,41 +1,31 @@
 {
   "main": {
     "name": "Amandarenea",
-    "occupation": "ReactJS Developer && Instructor @CleverProgrammer",
-    "description": "Full Stack React Developer by Day, Founder && Freelancer by Night. #papaReact",
-    "image": "IG_Sonny.jpeg",
-    "bio": "My name is Sonny, I'm a Full Stack ReactJS Developer. Currently I'm working at Clever Programmer while also coaching ",
-    "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
-    "email": "sonny@cleverprogrammer.com",
-    "phone": "+44 12 345 6789",
+    "occupation": "Journalist",
+    "description": "Hostess/Presenter for both radio and television station.",
+    "image": "mn_pic.jpg",
+    "bio": "My name is Amandarenea Nemes Mworia, I'm a Journalist.",
+    "contactmessage": "Get in touch with me to receive further details or anything else.",
+    "email": "reneanemes@gmail.com",
+    "phone": "+255 714 935 441",
     "address": {
-      "street": "123 Fake Street",
-      "city": "London",
-      "state": "UK",
-      "zip": "ABC 123"
+      "street": "Sinza",
+      "city": "Dar es Salaam",
+      "state": "Tanzania",
+      "zip": "1578"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "https://amandareneaportfolio.netlify.app",
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/sonny.sangha.3",
-        "className": "fa fa-facebook"
-      },
-      {
-        "name": "linkedin",
-        "url": "https://www.linkedin.com/in/saajansangha/",
-        "className": "fa fa-linkedin"
+        "name": "youtube",
+        "url": "https://www.youtube.com/channel/UCxsAjrM5nFFROUjJQVi5TDw",
+        "className": "fa fa-youtube"
       },
       {
         "name": "instagram",
-        "url": "https://www.instagram.com/ssssangha/",
+        "url": "https://www.instagram.com/mandy.nemes/",
         "className": "fa fa-instagram"
-      },
-      {
-        "name": "github",
-        "url": "http://github.com/sonnysangha",
-        "className": "fa fa-github"
       }
     ]
   },
@@ -43,50 +33,61 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "University of Kent",
-        "degree": "Masters in Advanced Computer Science",
-        "graduated": "January 2017",
-        "description": "Graduated with Distinction"
+        "school": "St. Augustine University of Tanzania",
+        "degree": "Bachelor of Mass Communication and Journalism",
+        "graduated": "July 2019",
+        "description": "Awarded Bachelor Degree of Mass Communication and Journalism"
       }
     ],
     "work": [
       {
-        "company": "Clever Programmer",
-        "title": "Team Member && React Specialist",
-        "years": "April 2020 - Present",
-        "description": "Teaching ReactJS to thousands of students."
+        "company": "Dar24 (Online T.V)",
+        "title": "Producer, Editor && Camera Operator",
+        "years": "2019 - 2020",
+        "description": "Produced and edited health content. Shot interviews and sports content."
       },
       {
-        "company": "Lindar Media",
-        "title": "Software Engineer",
-        "years": "Nov 2019 - April 2020",
-        "description": "Building MrQ, a gambling website."
+        "company": "Lake F.M (102.5), Mwanza",
+        "title": "News Editor",
+        "years": "2017 - 2019",
+        "description": "Editing news programs."
+      },
+      {
+        "company": "SAUT F.M (96.1), Mwanza",
+        "title": "Producer",
+        "years": "2016 - 2019",
+        "description": "Produced magazine programs, documentaries and feature stories."
       }
     ],
     "skills": [
+
       {
-        "name": "ReactJs",
+        "name": "Program Production",
         "level": "100%"
       },
       {
-        "name": "CSS",
-        "level": "95%"
+        "name": "Hostess/Presenter",
+        "level": "100%"
       },
       {
-        "name": "Git",
-        "level": "60%"
+        "name": "Documentary and Stories Production",
+        "level": "100%"
       },
       {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
+        "name": "Camera Operation",
+        "level": "100%"
       },
       {
-        "name": "HTML5",
-        "level": "80%"
+        "name": "Adobe Photoshop",
+        "level": "100%"
       },
       {
-        "name": "MongoDB",
-        "level": "80%"
+        "name": "Adobe Audition",
+        "level": "100%"
+      },
+      {
+        "name": "Adobe Premier Pro",
+        "level": "100%"
       }
     ]
   },
