@@ -166,7 +166,7 @@
         "url": "https://www.youtube.com/watch?v=jDsh1SfqLck&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=8"
       },
       {
-        "title": "Mwalimu aliyeamua kuachana na ualimu na kuuza MADAFU | Asimulia \"Wazazi wananitegemea\"",
+        "title": "Mwalimu aliyeamua kuachana na ualimu na kuuza MADAFU | Asimulia  | Wazazi wananitegemea ",
         "category": "Youth",
         "image": "hosted-edited-by-me/13.png",
         "url": "https://www.youtube.com/watch?v=K6jNdLNlJoQ&list=PLLE24u5DIyAbvFn0UTtCVY_7f2yz-pi7B&index=69"
@@ -174,34 +174,28 @@
     ],
     "shotAndEditedByMe": [
       {
-        "title": "MERN Stack WhatsApp Clone",
-        "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "whatsapp-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=gzdQDxzW2Tw"
+        "title": "EXCLUSIVE: Mwenyekiti CCM DAR - WEMA SEPETU anaweza/rushwa ya ngono na siasa  | nilimuachia mume watoto",
+        "category": "Women",
+        "image": "shot-edited-by-me/1.png",
+        "url": "https://www.youtube.com/watch?v=o08I7x-eGlA&list=PLLE24u5DIyAbvFn0UTtCVY_7f2yz-pi7B&index=12"
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
-        "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "Homa inayoua kwa kasi waathirika wa UKIMWI yapatiwa tiba na watafiti kutoka Tanzania NIMR",
+        "category": "Health",
+        "image": "shot-edited-by-me/2.png",
+        "url": "https://www.youtube.com/watch?v=RwtL59UeEPA&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=16"
       },
       {
-        "title": "Facebook Clone with React",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "facebook-clone.png",
-        "url": "https://www.youtube.com/watch?v=B-kxUMHBxNo"
+        "title": "Njia zipi salama MWANAMKE kusafisha sehemu za SIRI? / Ukoko/ Maji ya mchele/ vitunguu swaumu",
+        "category": "Health & Women",
+        "image": "shot-edited-by-me/3.png",
+        "url": "https://www.youtube.com/watch?v=0Y0yZQ8ijsQ&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=14"
       },
       {
-        "title": "Airbnb Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "airbnb-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=BtJeH_-XYaA"
-      },
-      {
-        "title": "Netflix Clone",
-        "category": "Facebook Clone built with ReactJS",
-        "image": "netflix-clone.jpeg",
-        "url": "https://www.youtube.com/watch?v=XtMThy8QKqU&t=9358s"
+        "title": "Dakika kumi za mazoezi haya mepesi kwa afya / hutahitaji vifaa vyovyote",
+        "category": "Health",
+        "image": "shot-edited-by-me/4.png",
+        "url": "https://www.youtube.com/watch?v=pszuCRz1lN8&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=11"
       }
     ]
   },
