@@ -92,7 +92,87 @@
     ]
   },
   "portfolio": {
-    "projects": [
+    "hostedAndEditedByMe": [
+      {
+        "title": "Binti aliyejaribu kujiua mara4/msongo wa mawazo/ magonjwa ya akili",
+        "category": "Health",
+        "image": "hosted-edited-by-me/1.png",
+        "url": "https://www.youtube.com/watch?v=YdPQ2CmFOfc&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=28"
+      },
+      {
+        "title": "Haya ndio mazoezi hatari kwa afya/usithubutu kufanya",
+        "category": "Health",
+        "image": "hosted-edited-by-me/2.png",
+        "url": "https://www.youtube.com/watch?v=_4z9hYWfet0&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=27"
+      },
+      {
+        "title": "Yajue mazoezi yakuondoa kitambi kwa wiki 3 tu | zingatia lishe",
+        "category": "Health",
+        "image": "hosted-edited-by-me/3.png",
+        "url": "https://www.youtube.com/watch?v=j0YByoe3aZ8&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=25"
+      },
+      {
+        "title": "AFYA TIP: Tazama madafu yanavyosababisha BUSHA",
+        "category": "Health",
+        "image": "hosted-edited-by-me/4.png",
+        "url": "https://www.youtube.com/watch?v=OCUwfVj64M8&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=23"
+      },
+      {
+        "title": "Namna sahihi ya kufanya makeup bila kuadhiri afya ya ngozi",
+        "category": "Health",
+        "image": "hosted-edited-by-me/5.png",
+        "url": "https://www.youtube.com/watch?v=O2k10__Hl2M&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=22"
+      },
+      {
+        "title": "Fahamu kwa kina kuhusu afya ya kinywa | kuoza meno | kinyonya kidole",
+        "category": "Health",
+        "image": "hosted-edited-by-me/6.png",
+        "url": "https://www.youtube.com/watch?v=ZUdfWl_MXMk&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=21"
+      },
+      {
+        "title": "Fahamu njia rahisi ya kulinda penzi lako/ nani alikufunda ?",
+        "category": "Health",
+        "image": "hosted-edited-by-me/7.png",
+        "url": "https://www.youtube.com/watch?v=jDsh1SfqLck&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=20"
+      },
+      {
+        "title": "Ujue ugonjwa wa sickle cell | upimaji waendelea | Mimi sina ila mwanangu anao | hajalogwa",
+        "category": "Health",
+        "image": "hosted-edited-by-me/8.png",
+        "url": "https://www.youtube.com/watch?v=jDsh1SfqLck&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=19"
+      },
+      {
+        "title": "Hofu yatanda juu ya virusi vya Corona | Tanzania hakuna mwathirika | Daktari atoa ufafanuzi",
+        "category": "Health",
+        "image": "hosted-edited-by-me/9.png",
+        "url": "https://www.youtube.com/watch?v=jDsh1SfqLck&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=18"
+      },
+      {
+        "title": "Nyama ya kitimoto chanzo cha kifafa | huduma ya kwanza kwa muathirika | fahamu zaidi juu ya kifafa",
+        "category": "Health",
+        "image": "hosted-edited-by-me/10.png",
+        "url": "https://www.youtube.com/watch?v=jDsh1SfqLck&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=17"
+      },
+      {
+        "title": "Mazoezi muhimu ya kufanya kiafya katika kipindi cha mlipuko wa virusi",
+        "category": "Health",
+        "image": "hosted-edited-by-me/11.png",
+        "url": "https://www.youtube.com/watch?v=jDsh1SfqLck&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=12"
+      },
+      {
+        "title": "Ukweli juu ya Sickle Cell pamoja na lishe | Namna unavyorithishwa | tiba na ushauri (Part 1)",
+        "category": "Health",
+        "image": "hosted-edited-by-me/12.png",
+        "url": "https://www.youtube.com/watch?v=jDsh1SfqLck&list=PLLE24u5DIyAZz1cDshWohEijKXJO5vfEX&index=8"
+      },
+      {
+        "title": "Mwalimu aliyeamua kuachana na ualimu na kuuza MADAFU | Asimulia \"Wazazi wananitegemea\"",
+        "category": "Youth",
+        "image": "hosted-edited-by-me/13.png",
+        "url": "https://www.youtube.com/watch?v=K6jNdLNlJoQ&list=PLLE24u5DIyAbvFn0UTtCVY_7f2yz-pi7B&index=69"
+      }
+    ],
+    "shotAndEditedByMe": [
       {
         "title": "MERN Stack WhatsApp Clone",
         "category": "WhatsApp Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
