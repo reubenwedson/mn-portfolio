@@ -6,7 +6,7 @@ class About extends Component {
     if(this.props.data){
       var name = this.props.data.name;
       var profilepic= "images/"+this.props.data.image;
-      var bio = this.props.data.bio;
+      // var bio = this.props.data.bio;
       var street = this.props.data.address.street;
       var city = this.props.data.address.city;
       var state = this.props.data.address.state;
@@ -25,7 +25,9 @@ class About extends Component {
          <div className="nine columns main-col">
             <h2>About Me</h2>
 
-            <p>{bio}</p>
+            <p>I am made up of strong character, hardworking, committed towards my goals.I don't settle until i have accomplished my tasks.I can work on assigned tasks with less supervision tagged along with creativity towards projects. <br/>
+                I love Teamwork since learning is part and parcel of it. I believe in the spirit of togetherness duties are accomplished. <br/>
+                Despite my multitask abilities, I am committed to standards of professionalism based on media demands.</p>
             <div className="row">
                <div className="columns contact-details">
                   <h2>Contact Details</h2>
